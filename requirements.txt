@@ -76,7 +76,6 @@ SpeechRecognition==3.14.2
 sqlparse==0.4.4
 static3==0.7.0
 tensorboard==2.11
-tensorboard-data-server==0.7.2
 tensorflow==2.11.0
 tensorflow-io-gcs-filesystem==0.31.0
 termcolor==2.4.0
