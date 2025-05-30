@@ -16,6 +16,7 @@ from datetime import datetime
 import os
 import requests
 import json
+import pyaudio
 
 application = Flask(__name__)
 application.secret_key = 'your-secret-key-here'  # Change this to a random secret key
